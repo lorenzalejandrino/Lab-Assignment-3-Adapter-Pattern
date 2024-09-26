@@ -4,6 +4,7 @@ Plugging Devices into Power Outlets
 
 You are developing an application that helps users manage and control various electronic devices by plugging them into power outlets. Each device has different plug types, voltage, and amperage requirements. To ensure compatibility and safety, you need to create adapters for different devices to allow them to be plugged into standard power outlets.
 
+
 Adaptee Objects:
 
 Laptop - Represents a laptop device that needs to be plugged into a power source. It has the charge() method.
@@ -28,3 +29,6 @@ In your solution you must provide the following in your Github link account:
   Problem statement (description of the problem. Just copy what is stated here.
   UML Class Diagram
   Uploaded java codes for the solution.
+![Blank diagram](https://github.com/user-attachments/assets/3133ef46-f9dd-4bd9-928b-a663c9446172)
+
+
